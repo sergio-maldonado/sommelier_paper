@@ -1,0 +1,31 @@
+% first column refers to label in round, second column is the guess
+% Please enter "0" if the label was not present in the round
+% First Round
+1	0
+2	5
+3	0
+4	8
+5	7
+6	0
+7	1
+8	6
+
+% Second Round
+1	0
+2	8
+3	0
+4	4
+5	2
+6	6
+7	0
+8	1
+
+% Third Round
+1	7
+2	6
+3	0
+4	0
+5	5
+6	3
+7	8
+8	0
