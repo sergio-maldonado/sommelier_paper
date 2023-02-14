@@ -4,10 +4,9 @@
 %
 % Things to do/add:
 %   -participant proficiency relative to random statistics
-%   -copy-paste for all other participants
 %
-% This code complements the study: "[Final title here]" by Maldonado and
-% Zielinska.
+% This code complements the study: "You must be bluffing, Mr Mc Garrigle: 
+% Challenging an amateur sommelier" by Maldonado and Zielinska.
 
 clear variables; close all; clc
 
