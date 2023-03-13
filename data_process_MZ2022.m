@@ -7,12 +7,11 @@
 %
 % This code complements the study: "You must be bluffing, Mr Mc Garrigle: 
 % Challenging an amateur sommelier" by Maldonado and Zielinska.
-
 clear variables; close all; clc
 
 % files names:
 mapping_file = 'maps.dat';
-eddie_file = 'eddie.dat';
+eddie_file = 'emcg.dat';
 
 load(mapping_file)
 
