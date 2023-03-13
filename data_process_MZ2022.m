@@ -12,7 +12,7 @@ clear variables; close all; clc
 
 % files names:
 mapping_file = 'maps.dat';
-eddie_file = 'eddie.dat';
+eddie_file = 'emcg.dat';
 
 load(mapping_file)
 
